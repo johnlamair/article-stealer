@@ -1,0 +1,10 @@
+.idea/
+*.iml
+
+venv/
+.venv/
+
+scraped_preview/
+
+__pycache__/
+*.pyc
